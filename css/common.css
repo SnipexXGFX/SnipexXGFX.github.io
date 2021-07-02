@@ -30,7 +30,7 @@ html {
     overflow-x: hidden;
 }
 
-@font-face {font-family: "Chicken";
+@font-face {font-family: "BerlinSans";
     src: url("http://db.onlinewebfonts.com/t/fe2027c27b6a24505f548c6fd2e1076d.eot"); /* IE9*/
     src: url("http://db.onlinewebfonts.com/t/fe2027c27b6a24505f548c6fd2e1076d.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
     url("http://db.onlinewebfonts.com/t/fe2027c27b6a24505f548c6fd2e1076d.woff2") format("woff2"), /* chrome firefox */
@@ -40,5 +40,5 @@ html {
 }
 
 * {
-    font-family: "Chicken";
+    font-family: "BerlinSans";
 }
